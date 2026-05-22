@@ -1,0 +1,30 @@
+# Flutter
+people_counter_ai/build/
+people_counter_ai/.dart_tool/
+people_counter_ai/.idea/
+people_counter_ai/.flutter-plugins
+people_counter_ai/.flutter-plugins-dependencies
+
+# Android / iOS temporary
+people_counter_ai/android/.gradle/
+people_counter_ai/ios/Pods/
+
+# Python
+people_counter_yolo_api/__pycache__/
+people_counter_yolo_api/*.pyc
+people_counter_yolo_api/.venv/
+people_counter_yolo_api/venv/
+
+# API temporary folders
+people_counter_yolo_api/uploads/
+people_counter_yolo_api/results/
+
+# YOLO model file
+people_counter_yolo_api/yolov8n.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code optional
+.vscode/
